@@ -1,0 +1,7 @@
+Welcome to the coin swap puzzle.                                  
+Make moves to solve the puzzle where the objective is to swap the 
+place of the pieces on either side of the board.  X can only move 
+to the right into an empty square, or can jump to the right over  
+an O into an empty square. Conversely O can only move to the left 
+into an empty square, or can jump to the left over an X into an   
+empty square.  
